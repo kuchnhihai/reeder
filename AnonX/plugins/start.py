@@ -194,6 +194,7 @@ async def start_comm(client, message: Message, _):
                 )
 
 
+              
 welcome_group = 2
 
 
