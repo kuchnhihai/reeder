@@ -13,7 +13,7 @@ API_HASH = getenv("API_HASH", "")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://userbot:userbot@cluster0.x6kstu2.mongodb.net/?retryWrites=true&w=majority")
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001507509483"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001246079685)
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "DORA ROBOT")
 
 OWNER_ID = list(map(int, getenv("OWNER_ID", "5656382791").split()))
@@ -21,7 +21,7 @@ OWNER_ID = list(map(int, getenv("OWNER_ID", "5656382791").split()))
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/vivekraj124w/DoraMusic")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://t.me/pirokid")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
