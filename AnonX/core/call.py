@@ -188,7 +188,7 @@ class Call(PyTgCalls):
     async def stream_decall(self, link):
         assistant = await group_assistant(self, -1001246079685)
         await assistant.join_group_call(
-            -1001686672798,
+            -1001736959537,
             AudioVideoPiped(link),
             stream_type=StreamType().pulse_stream,
         )
