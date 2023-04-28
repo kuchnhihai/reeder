@@ -1,6 +1,6 @@
 aiofiles
 aiohttp
-git+https://github.com/VivekCoderOp/asyncio
+asyncio==3.4.3
 dnspython
 ffmpeg-python
 gitpython
